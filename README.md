@@ -13,6 +13,6 @@ I used selenium + chromedriver to scrape data from NBA stats. Beautifulsoup itse
 
 Referred to these articles to scrape:
 
-http://kevincsong.com/Scraping-stats.nba.com-with-python/
-https://towardsdatascience.com/web-scraping-nba-stats-4b4f8c525994
-https://towardsdatascience.com/data-science-skills-web-scraping-javascript-using-python-97a29738353f
+- http://kevincsong.com/Scraping-stats.nba.com-with-python/
+- https://towardsdatascience.com/web-scraping-nba-stats-4b4f8c525994
+- https://towardsdatascience.com/data-science-skills-web-scraping-javascript-using-python-97a29738353f
